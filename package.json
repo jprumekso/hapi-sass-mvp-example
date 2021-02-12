@@ -1,0 +1,28 @@
+{
+  "name": "hapi-saas-mvp-example",
+  "version": "1.0.0",
+  "description": "Saas MVP backend implementation using HapiJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jprumekso/hapi-sass-mvp-example.git"
+  },
+  "keywords": [
+    "hapi",
+    "javascript",
+    "api"
+  ],
+  "author": "Jalu Pujo Rumekso",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/jprumekso/hapi-sass-mvp-example/issues"
+  },
+  "homepage": "https://github.com/jprumekso/hapi-sass-mvp-example#readme"
+}
